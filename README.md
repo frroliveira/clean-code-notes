@@ -8,7 +8,7 @@ We were in a rush, we decide that a working mess is better than nothing, nobody 
 
 Don't take me wrong, these things are normal so it should be normal to take the time to make it right. Otherwise, as time goes by code quality decreases and features take longer to implement. We engineers don't dependent on anyone to actually have clean code, "the same way that managers defend schedule and requirements with passion, our job is to defend the code with equal passion".
 
-![Clean Code](./images/clean code.jpg)
+![Clean Code](/images/cleancode.jpg)
 
 ## The Good Code
 
