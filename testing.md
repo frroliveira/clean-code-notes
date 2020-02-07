@@ -1,3 +1,5 @@
+[Previous: SOLID Principles](./solid.md)
+
 ## Testing
 
 Automated tests are very useful as they avoid manual repetition and provide documentation of expectations. They can also give confidence to make changes, however unclean tests have the opposite effect and can become a liability. This means that
@@ -13,3 +15,5 @@ Just like production code, tests should be refactored. When refactoring or writi
 > Don't ignore a failing test
 
 The practice of Test Driven Development (TDD) is recommended since it encourages writing code that is testable and writing only the strictly necessary code.
+
+[Next: Code Process](./process.md)
