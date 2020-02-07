@@ -1,3 +1,5 @@
+[Previous: Code Quality](./README.md)
+
 ## Readability
 
 The ratio of time spent between reading code and writing code is of well over 10 to 1. This means that readability of code is extremely important and making it more readable can provide big gains.
@@ -52,3 +54,5 @@ class UserService(repository: Repository[User]) {
   }
 }
 ```
+
+[Next: Code Foundations](./foundations.md)
