@@ -1,3 +1,5 @@
+[Previous: Readability](./readability.md)
+
 ## Code Foundations
 
 Our programs at their core are the composition of simple constructs provided by the programming language. Similarly to building bridges and houses, we want to make sure our foundations are of good quality.
@@ -90,3 +92,5 @@ Analyzing the table below, we can conclude that data encapsulation "makes it eas
 | **Add New Function**   | Every class changes  | Single function changes | Add `perimeter` function |
 | **Add New Class**      | Single class changes | Every function changes  | Add `Circle` class       |
 | **Change Data Fields** | Single class changes | Every function changes  | `Square` is defined by two points instead of a `side` value |
+
+[Next: SOLID Principles](./solid.md)
