@@ -1,3 +1,5 @@
+[Previous: Testing](./testing.md)
+
 ## Code Process
 
 In practice, good practices are only good if they are applied to our software and having a process to follow can help achieve that. The process here defined is not to be confused with software processes that look at the entire lifecycle, it rather focuses on the quality of code alone. Also, it has been empirically identified hence it should be read as a suggestion.
