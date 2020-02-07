@@ -29,3 +29,5 @@ The posts in the list below dive into some aspects that contribute to good code.
 ## Notes
 
 This series of posts was mostly based on the book _Clean Code: A Handbook of Agile Software Craftsmanship_ written by Robert C. Martin (aka Uncle Bob).
+
+[Next: Readibility](./readability.md)
