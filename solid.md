@@ -1,3 +1,5 @@
+[Previous: Code Foundations](./foundations.md)
+
 ## SOLID Principles
 
 We want systems to grow incrementally by implementing proper separation of concerns and maximizing decoupling at each level of abstraction. The following principles serve as a tool to achieve this goal.
@@ -100,3 +102,5 @@ class UserService(repository: Repository[User]) {
   def findById(id: UUID): Option[User]
 }
 ```
+
+[Next: Testing](./testing.md)
